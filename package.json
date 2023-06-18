@@ -8,7 +8,15 @@
     "generate": "ts-node --transpile-only src/schema.ts",
     "build": "rm -rf ./dist && tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "GraphQL",
+    "stada",
+    "standard country data",
+    "ISO",
+    "ISO Code",
+    "alpha2",
+    "alpha3"
+  ],
   "author": "fisk",
   "license": "ISC",
   "devDependencies": {
@@ -21,5 +29,13 @@
     "dotenv": "^16.3.1",
     "graphql": "^16.6.0",
     "nexus": "^1.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulawesi/stada.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sulawesi/stada/issues"
+  },
+  "homepage": "https://github.com/sulawesi/stada#readme"
 }

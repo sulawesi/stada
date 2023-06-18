@@ -9,3 +9,14 @@ Using npm
 ```
 npm i stada
 ```
+
+## Usage
+Run in debug mode 
+```
+npm run dev
+```
+
+Transpile
+```
+npm run build
+```
