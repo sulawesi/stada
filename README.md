@@ -5,9 +5,10 @@
 
 
 ## Installation
-Using npm 
+1. Colone the repository
+2. Install using npm 
 ```
-npm i stada
+npm i
 ```
 
 ## Usage
