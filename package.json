@@ -4,9 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev --transpile-only --no-notify --exit-child src/app.ts",
-    "generate": "ts-node --transpile-only src/schema.ts"
+    "generate": "ts-node --transpile-only src/schema.ts",
+    "build": "rm -rf ./dist && tsc"
   },
   "keywords": [],
   "author": "fisk",
