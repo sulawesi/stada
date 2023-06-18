@@ -38,28 +38,28 @@ query {
 The above query returns data in the following manner: 
 ```
 {
-	"data": {
-		"countries": [
-			{
-				"Name": "Afghanistan",
-				"Alpha2Code": "AF",
-				"Alpha3Code": "AFG",
-				"NumericCode": "004"
-			},
-			{
-				"Name": "Albania",
-				"Alpha2Code": "AL",
-				"Alpha3Code": "ALB",
-				"NumericCode": "008"
-			},
-			{
-				"Name": "Algeria",
-				"Alpha2Code": "DZ",
-				"Alpha3Code": "DZA",
-				"NumericCode": "012"
-			},
-      .........
-		]
-	}
+  "data": {
+    "countries": [
+      {
+        "Name": "Afghanistan",
+        "Alpha2Code": "AF",
+        "Alpha3Code": "AFG",
+        "NumericCode": "004"
+      },
+      {
+        "Name": "Albania",
+        "Alpha2Code": "AL",
+        "Alpha3Code": "ALB",
+        "NumericCode": "008"
+      },
+      {
+        "Name": "Algeria",
+        "Alpha2Code": "DZ",
+        "Alpha3Code": "DZA",
+        "NumericCode": "012"
+      },
+      ......
+    ]
+  }
 }
-
+```
