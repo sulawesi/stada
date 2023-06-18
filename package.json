@@ -9,7 +9,7 @@
     "generate": "ts-node --transpile-only src/schema.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "fisk",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.1",
