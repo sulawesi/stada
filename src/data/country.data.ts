@@ -1,4 +1,4 @@
-// Data from https://stefangabos.github.io/world_countries/
+// Data from Wikipedia
 
 const countryData = [
     {
