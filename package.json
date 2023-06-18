@@ -1,7 +1,7 @@
 {
   "name": "stada",
   "version": "1.0.0",
-  "description": "",
+  "description": "Query country ISO data using GraphQL",
   "main": "app.js",
   "scripts": {
     "dev": "ts-node-dev --transpile-only --no-notify --exit-child src/app.ts",
