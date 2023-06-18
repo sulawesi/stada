@@ -6,7 +6,8 @@
 
 ## Installation
 1. Clone the repository
-2. Install using npm 
+2. Optional: Create a .env file in the root folder. Specify a port ```PORT = 3000```
+3. Install using npm 
 ```
 npm i
 ```
