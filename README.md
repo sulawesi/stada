@@ -1,6 +1,6 @@
 # stada
 * Stada - Standard Data
-* Stada is a standard data server for ISO country data
+* Standard data server for ISO country data
 * Query country data in GraphQL mode
 
 
