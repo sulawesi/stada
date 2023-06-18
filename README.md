@@ -5,7 +5,7 @@
 
 
 ## Installation
-1. Colone the repository
+1. Clone the repository
 2. Install using npm 
 ```
 npm i
