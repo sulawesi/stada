@@ -22,3 +22,16 @@ Transpile
 ```
 npm run build
 ```
+
+Query using Postman or Insomnia
+```
+query {
+  countries {
+    Name
+    Alpha2Code
+    Alpha3Code
+    NumericCode
+  }
+}
+```
+
